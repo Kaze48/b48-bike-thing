@@ -1,0 +1,3 @@
+[submodule "vendor/base-model"]
+	path = vendor/base-model
+	url = https://github.com/base48/base-model.git
